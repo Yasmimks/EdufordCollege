@@ -4,8 +4,8 @@
 Website using HTML and CSS.<br />
 
 ### Web Version
-<img src="img/final.jpg" alt="Home Page Web Version"/>
-<img src="img/aboutfinal.jpg" alt="About Page Web Version"/>
+<img src="img/final.JPG" alt="Home Page Web Version"/>
+<img src="img/aboutfinal.JPG" alt="About Page Web Version"/>
 
 ### Mobile Version
 <img src="img/mobilefinal.jpg" alt="Mobile Version"/>
