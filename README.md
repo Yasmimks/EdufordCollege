@@ -8,11 +8,11 @@ Website using HTML and CSS.<br />
 <img src="img/aboutfinal.JPG" alt="About Page Web Version"/>
 
 ### Mobile Version
-<img src="img/mobilefinal.jpg" alt="Mobile Version"/>
+<img src="img/mobilefinal.JPG" alt="Mobile Version"/>
 
 ## 🚀 Starting
 
-To start the project, just open the file `index.html` in your preferred browser.
+To start the project, just open the file `eduford.html` in your preferred browser.
 
 ---
 ##### Coded by Yasmim S
